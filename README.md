@@ -93,7 +93,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Chat Bot
 - [Fresh chat](https://www.freshworks.com/live-chat-software/) - Chatbot in Freshworks support suite.
-- [Tiledesh](https://www.tiledesk.com/) - AI-powered live chat.
+- [Tiledesk](https://www.tiledesk.com/) - Free open source AI-powered live chat.
 
 ## Chat
 - [Daily.co](https://www.daily.co/) - Video chat.
